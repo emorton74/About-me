@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emorton74
+- 👋 Hi, I’m Eric Morton
 - 👀 I’m interested in project management and data analysis
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on projects and scrum boards
